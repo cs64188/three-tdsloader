@@ -1,6 +1,6 @@
 {
-  "name": "three-tdsloader",
-  "version": "1.0.0",
+  "name": "three-3dsloader",
+  "version": "1.0.1",
   "homepage": "https://github.com/cs64188/three-tdsloader",
   "description": "Is the three.js tdsloader from official repo examples",
   "main": "TDSLoader.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "tdsloader",
-    "tds",
+    "3ds",
     "threejs",
     "three.js"
   ],

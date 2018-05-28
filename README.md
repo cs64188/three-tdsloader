@@ -2,16 +2,18 @@
 
 [THREE.TDSLoader](https://threejs.org/examples/js/loaders/TDSLoader.js) repackaged as a node module
 
+另一个做了three-tds-loader，没法使用，顾自造轮子，蛋因名字冲突(太过相似)不得不取名three-3dsloader
+
 ## install
 
-`npm i --save three-tdsloader`
+`npm i --save three-3dsloader`
 
 ## usage
 
 ```js
 
 var THREE = require('three');
-var TDSLoader = require('three-tdsloader');
+var TDSLoader = require('three-3dsloader');
 
 var loader = new TDSLoader();
 
