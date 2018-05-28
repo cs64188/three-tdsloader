@@ -1,4 +1,4 @@
-## three-fbx-loader
+## three-tdsloader
 
 [THREE.TDSLoader](https://threejs.org/examples/js/loaders/TDSLoader.js) repackaged as a node module
 
